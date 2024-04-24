@@ -43,7 +43,7 @@ header h1 span {
   width: 75%;
 }
 
-button {
+button, select {
   border: 2px solid #5c946e;
   border-radius: 5px;
   background: #4f7d5d;
@@ -64,5 +64,6 @@ button:hover {
 }
 
 .hidden {
-  display: none;
+  color: black;
+  background-color: yellow;
 }
